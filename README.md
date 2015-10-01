@@ -4,7 +4,7 @@ Live presentation at: https://intro-prediction.duyetdev.com
 
 <img src="https://i.imgur.com/TQ8u1ko.png" />
 
-# Credit 
+# References 
 
 - Prediction.io: https://prediction.io
 - Beautiful presentations using HTML by reveal.js: https://github.com/hakimel/reveal.js
