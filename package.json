@@ -38,7 +38,7 @@
     "grunt-autoprefixer": "3.0.4",
     "grunt-zip": "0.18.2",
     "grunt": "1.5.3",
-    "node-sass": "0.9.6"
+    "node-sass": "7.0.3"
   },
   "licenses": [
     {
