@@ -36,7 +36,7 @@
     "grunt-sass": "3.1.0",
     "grunt-contrib-connect": "3.0.0",
     "grunt-autoprefixer": "3.0.4",
-    "grunt-zip": "0.18.2",
+    "grunt-zip": "0.20.0",
     "grunt": "1.5.3",
     "node-sass": "7.0.3"
   },
