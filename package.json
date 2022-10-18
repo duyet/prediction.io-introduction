@@ -28,7 +28,7 @@
     "socket.io": "~4.5.0"
   },
   "devDependencies": {
-    "grunt-contrib-qunit": "6.2.0",
+    "grunt-contrib-qunit": "6.2.1",
     "grunt-contrib-jshint": "3.2.0",
     "grunt-contrib-cssmin": "4.0.0",
     "grunt-contrib-uglify": "5.2.2",
