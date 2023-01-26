@@ -1,6 +1,6 @@
 # Prediction.io Introduction 
 
-Live presentation at: https://intro-prediction.duyetdev.com
+Live presentation at: http://duyet.github.io/prediction.io-introduction
 
 <img src="https://i.imgur.com/TQ8u1ko.png" />
 
